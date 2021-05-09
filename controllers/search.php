@@ -1,5 +1,5 @@
 <?php
-$con=new mysqli("localhost","root","Mysql@12","zoho");
+$con=new mysqli("remotemysql.com","bsH0pV8s45","j0M2EalHEG","bsH0pV8s45");
 $dob=$_POST["date"];
 $email=$_POST["email"];
 
